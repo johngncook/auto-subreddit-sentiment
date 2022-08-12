@@ -1,2 +1,2 @@
-# auto-subreddit-sentiment
+# Automotive Subreddit Sentiment Analysis
 A sentiment analysis comparing two automotive manufacturers
