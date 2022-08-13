@@ -1,4 +1,4 @@
-# Automotive Subreddit Sentiment Analysis
+# Automotive Company Subreddit Sentiment Analysis
 A sentiment analysis comparing the two automotive manufacturers Tesla and Honda in recent years.
 
 The full report can be accessed on Auto_Sentiment_Full_Report.pdf in the repository and the jupyter notebook containing the code that powered the analysis is named auto_sentiment_full_analysis.ipynb also contained in the main directory. 
